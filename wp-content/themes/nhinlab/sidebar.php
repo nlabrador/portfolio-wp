@@ -11,13 +11,13 @@ Has a passion for making things for the web.
 Perl. Catalyst. PHP. Symfony. jQuery. Javascript. PostgreSQL. CSS. Vim. Full Stack
 </small>
 <div class="mt-3">
-<a href="<?php echo get_page_link(5) ?>" class="btn btn-warning btn-icon-only rounded-circle">
+<a href="<?php echo get_page_link(2) ?>" class="btn btn-warning btn-icon-only rounded-circle">
 <i class="fa fa-user"></i>
 </a>
-<a href="<?php echo get_page_link(2) ?>" class="btn btn-warning btn-icon-only rounded-circle">
+<a href="<?php echo get_page_link(8) ?>" class="btn btn-warning btn-icon-only rounded-circle">
 <i class="fa fa-cubes"></i>
 </a>
-<a href="<?php echo get_page_link(20) ?>" class="btn btn-warning btn-icon-only rounded-circle">
+<a href="<?php echo get_page_link(6) ?>" class="btn btn-warning btn-icon-only rounded-circle">
 <i class="fa fa-phone"></i>
 </a>
 </div>

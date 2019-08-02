@@ -30,13 +30,13 @@
         <div class="col-md-6">
           <ul class="nav nav-footer justify-content-end">
             <li class="nav-item">
-              <a href="<?php echo get_page_link(5) ?>" class="nav-link" target="_blank">About</a>
+              <a href="<?php echo get_page_link(2) ?>" class="nav-link" target="_blank">About</a>
             </li>
             <li class="nav-item">
-              <a href="<?php echo get_page_link(20) ?>" class="nav-link" target="_blank">Contact</a>
+              <a href="<?php echo get_page_link(6) ?>" class="nav-link" target="_blank">Contact</a>
             </li>
             <li class="nav-item">
-              <a href="<?php echo get_page_link(2) ?>" class="nav-link" target="_blank">Experiences</a>
+              <a href="<?php echo get_page_link(8) ?>" class="nav-link" target="_blank">Experiences</a>
             </li>
           </ul>
         </div>
